@@ -6,7 +6,7 @@ struct Person<'a> {
 
 fn main() {
     let name =  "Peter";
-    let age = 27;
+    let age = 28;
     let peter = Person { name, age };
 
     // Pretty print
